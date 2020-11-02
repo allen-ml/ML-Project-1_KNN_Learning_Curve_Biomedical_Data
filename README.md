@@ -1,4 +1,4 @@
-# Project 1: KNN, Learning Curve_Biomedical_Data
+# Project 1: Binary Classification Using KNN - Implementation of Learning Curve
 
 ## Biomedical Data for Diagnosis 
 
